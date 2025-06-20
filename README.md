@@ -1,4 +1,4 @@
-# Forward_Design
+
 
 Main paper has result_V.csv file with 8 columns representing wavelength(1000-1800),6 parameters and lastly transmission respectively. Basically, 147,456 unique examples generated through FDTD simulations in the "result_V.csv" file. which has 5.8gb for that it took all night for just train the model.
 
